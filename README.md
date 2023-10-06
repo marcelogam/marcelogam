@@ -41,5 +41,7 @@ Pacote office
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcelo.amg03@gmail.com)
 marcelo.amg03@gmail.com
 
+![Snake animation](https://github.com/marcelogam/marcelogam/blob/output/github-contribution-grid-snake.svg)
+
 
 
